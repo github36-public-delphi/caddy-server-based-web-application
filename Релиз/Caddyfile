@@ -1,0 +1,4 @@
+http://127.0.0.1
+on startup php\php-cgi.exe -b 6545  &
+fastcgi / 127.0.0.1:6545 php 
+root  web_app

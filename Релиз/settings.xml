@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ANSI"?>
+
+<!-- Этот файл содержит настройки программы -->
+
+<SETTINGS>
+
+<!-- Заголовок формы -->
+<FORM_CAPTION></FORM_CAPTION>
+<!-- Размер формы -->
+<FORM_WIDTH>800</FORM_WIDTH>
+<FORM_HEIGHT>600</FORM_HEIGHT>
+<!-- Границы формы Sizeable или Single -->
+<FORM_BORDER_STYLE>Single</FORM_BORDER_STYLE>
+<!-- Окно формы Normal или Maximized -->
+<FORM_WINDOW_STATE>Maximized</FORM_WINDOW_STATE>
+<!-- Показать иконку свернуть на форме 0 или 1 -->
+<FORM_SHOW_MINIMIZE_ICON>1</FORM_SHOW_MINIMIZE_ICON>
+<!-- Показать иконку развернуть на форме  0 или 1 -->
+<FORM_SHOW_MAXIMIZE_ICON>1</FORM_SHOW_MAXIMIZE_ICON>
+
+</SETTINGS>
